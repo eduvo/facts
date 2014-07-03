@@ -6,7 +6,10 @@ Gem::Specification.new do |s|
   s.description = "Repository of demographical, financial and clerical information"
   s.authors = ["Evadne Wu"]
   s.email = 'ev@radi.ws'
-  s.files = ["lib/facts.rb"]
+  s.files = [
+    "lib/facts.rb",
+    "lib/facts/country.rb",
+  ] + Dir.glob("data/*")
   s.homepage = 'http://rubygems.org/gems/facts'
   s.license = 'MIT'
   s.add_runtime_dependency 'static_model', '~> 1.0.4'

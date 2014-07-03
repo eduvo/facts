@@ -3,3 +3,5 @@ class Facts
     # TBD
   end
 end
+
+require 'facts/country'

@@ -1,0 +1,629 @@
+--- 
+- :id: 0
+  :alpha3: AED
+  :symbol: 
+  :name: United Arab Emirates dirham
+- :id: 1
+  :alpha3: AFN
+  :symbol: "\xD8\x8B"
+  :name: Afghanistan afghani
+- :id: 2
+  :alpha3: ALL
+  :symbol: L
+  :name: 
+- :id: 3
+  :alpha3: AMD
+  :symbol: 
+  :name: Armenian dram
+- :id: 4
+  :alpha3: ANG
+  :symbol: "\xC6\x92"
+  :name: Netherlands Antillean guilder
+- :id: 5
+  :alpha3: AOA
+  :symbol: 
+  :name: Angola kwanza
+- :id: 6
+  :alpha3: ARS
+  :symbol: $
+  :name: Argentine peso
+- :id: 7
+  :alpha3: AUD
+  :symbol: $
+  :name: Australian dollar
+- :id: 8
+  :alpha3: AWG
+  :symbol: "\xC6\x92"
+  :name: Aruban guilder
+- :id: 9
+  :alpha3: AZN
+  :symbol: "\xD0\xBC"
+  :name: Azerbaijanian manat
+- :id: 10
+  :alpha3: BAM
+  :symbol: K
+  :name: Bosnia and Herzegovina convertible mark
+- :id: 11
+  :alpha3: BBD
+  :symbol: $
+  :name: Barbados dollar
+- :id: 12
+  :alpha3: BDT
+  :symbol: "\xE0\xA7\xB3"
+  :name: Bangladeshi taka
+- :id: 13
+  :alpha3: BGN
+  :symbol: "\xD0\xBB"
+  :name: Bulgarian lev
+- :id: 14
+  :alpha3: BHD
+  :symbol: 
+  :name: Bahraini dinar
+- :id: 15
+  :alpha3: BIF
+  :symbol: 
+  :name: Burundian franc
+- :id: 16
+  :alpha3: BMD
+  :symbol: $
+  :name: Bermuda dollar
+- :id: 17
+  :alpha3: BND
+  :symbol: $
+  :name: Brunei dollar
+- :id: 18
+  :alpha3: BOB
+  :symbol: $
+  :name: Bolivian boliviano
+- :id: 19
+  :alpha3: BRL
+  :symbol: R
+  :name: Brazilian real
+- :id: 20
+  :alpha3: BSD
+  :symbol: $
+  :name: Bahamian dollar
+- :id: 21
+  :alpha3: BWP
+  :symbol: P
+  :name: Botswana pula
+- :id: 22
+  :alpha3: BYR
+  :symbol: p
+  :name: Belarussian ruble
+- :id: 23
+  :alpha3: BZD
+  :symbol: B
+  :name: Belize dollar
+- :id: 24
+  :alpha3: CAD
+  :symbol: $
+  :name: Canadian dollar
+- :id: 25
+  :alpha3: CDF
+  :symbol: 
+  :name: Congolese franc
+- :id: 26
+  :alpha3: CHF
+  :symbol: C
+  :name: Swiss franc
+- :id: 27
+  :alpha3: CLP
+  :symbol: $
+  :name: Chilean peso
+- :id: 28
+  :alpha3: CNY
+  :symbol: "\xC2\xA5"
+  :name: Chinese yuan renminbi
+- :id: 29
+  :alpha3: COP
+  :symbol: $
+  :name: Columbian peso
+- :id: 30
+  :alpha3: CRC
+  :symbol: "\xE2\x82\xA1"
+  :name: Costa Rican colon
+- :id: 31
+  :alpha3: CUP
+  :symbol: "\xE2\x82\xB1"
+  :name: 
+- :id: 32
+  :alpha3: CVE
+  :symbol: 
+  :name: Cape Verde escudo
+- :id: 33
+  :alpha3: CZK
+  :symbol: K
+  :name: Czech koruna
+- :id: 34
+  :alpha3: DJF
+  :symbol: 
+  :name: Djiboutian franc
+- :id: 35
+  :alpha3: DKK
+  :symbol: k
+  :name: Danish krone
+- :id: 36
+  :alpha3: DOP
+  :symbol: R
+  :name: Dominican peso
+- :id: 37
+  :alpha3: DZD
+  :symbol: 
+  :name: Algerian dinar
+- :id: 38
+  :alpha3: EEK
+  :symbol: k
+  :name: 
+- :id: 39
+  :alpha3: EGP
+  :symbol: "\xC2\xA3"
+  :name: Egyptian pound
+- :id: 40
+  :alpha3: ERN
+  :symbol: 
+  :name: Eritrean nakfa
+- :id: 41
+  :alpha3: ETB
+  :symbol: 
+  :name: Ethiopian birr
+- :id: 42
+  :alpha3: EUR
+  :symbol: "\xE2\x82\xAC"
+  :name: Euro
+- :id: 43
+  :alpha3: FJD
+  :symbol: $
+  :name: Fiji dollar
+- :id: 44
+  :alpha3: FKP
+  :symbol: "\xC2\xA3"
+  :name: Falkland Islands pound
+- :id: 45
+  :alpha3: GBP
+  :symbol: "\xC2\xA3"
+  :name: British pound sterling
+- :id: 46
+  :alpha3: GEL
+  :symbol: 
+  :name: Georgian lari
+- :id: 47
+  :alpha3: GGP
+  :symbol: "\xC2\xA3"
+  :name: 
+- :id: 48
+  :alpha3: GHC
+  :symbol: "\xC2\xA2"
+  :name: 
+- :id: 49
+  :alpha3: GHS
+  :symbol: 
+  :name: Ghana cedi
+- :id: 50
+  :alpha3: GIP
+  :symbol: "\xC2\xA3"
+  :name: Gibraltar pound
+- :id: 51
+  :alpha3: GMD
+  :symbol: 
+  :name: Gambian dalasi
+- :id: 52
+  :alpha3: GNF
+  :symbol: 
+  :name: Guinean franc
+- :id: 53
+  :alpha3: GTQ
+  :symbol: Q
+  :name: Guatemalan quetzal
+- :id: 54
+  :alpha3: GYD
+  :symbol: $
+  :name: Guyanese dollar
+- :id: 55
+  :alpha3: HKD
+  :symbol: $
+  :name: Hong Kong dollar
+- :id: 56
+  :alpha3: HNL
+  :symbol: L
+  :name: Hunduran Lempira
+- :id: 57
+  :alpha3: HRK
+  :symbol: k
+  :name: Croatian kuna
+- :id: 58
+  :alpha3: HTG
+  :symbol: 
+  :name: Haitian gourde
+- :id: 59
+  :alpha3: HUF
+  :symbol: F
+  :name: Hungarian forint
+- :id: 60
+  :alpha3: IDR
+  :symbol: R
+  :name: Indonesian rupiah
+- :id: 61
+  :alpha3: ILS
+  :symbol: "\xE2\x82\xAA"
+  :name: Israeli sheqel
+- :id: 62
+  :alpha3: IMP
+  :symbol: "\xC2\xA3"
+  :name: 
+- :id: 63
+  :alpha3: INR
+  :symbol: "\xE2\x82\xB9"
+  :name: Indian rupee
+- :id: 64
+  :alpha3: IRR
+  :symbol: "\xEF\xB7\xBC"
+  :name: 
+- :id: 65
+  :alpha3: ISK
+  :symbol: k
+  :name: Icelandic krona
+- :id: 66
+  :alpha3: JEP
+  :symbol: "\xC2\xA3"
+  :name: 
+- :id: 67
+  :alpha3: JMD
+  :symbol: J
+  :name: Jamaican dollar
+- :id: 68
+  :alpha3: JOD
+  :symbol: 
+  :name: Jordanian dinar
+- :id: 69
+  :alpha3: JPY
+  :symbol: "\xC2\xA5"
+  :name: Japanese yen
+- :id: 70
+  :alpha3: KES
+  :symbol: 
+  :name: Kenyan shilling
+- :id: 71
+  :alpha3: KGS
+  :symbol: "\xD0\xBB"
+  :name: Kyrgyzstani som
+- :id: 72
+  :alpha3: KHR
+  :symbol: "\xE1\x9F\x9B"
+  :name: Cambodian riel
+- :id: 73
+  :alpha3: KMF
+  :symbol: 
+  :name: Comoro franc
+- :id: 74
+  :alpha3: KRW
+  :symbol: "\xE2\x82\xA9"
+  :name: South Korean won
+- :id: 75
+  :alpha3: KWD
+  :symbol: 
+  :name: Kuwaiti dinar
+- :id: 76
+  :alpha3: KYD
+  :symbol: $
+  :name: Cayman Islands dollar
+- :id: 77
+  :alpha3: KZT
+  :symbol: "\xD0\xBB"
+  :name: Kazakhstani tenge
+- :id: 78
+  :alpha3: LAK
+  :symbol: "\xE2\x82\xAD"
+  :name: Lao kip
+- :id: 79
+  :alpha3: LBP
+  :symbol: "\xC2\xA3"
+  :name: Lebanese pound
+- :id: 80
+  :alpha3: LKR
+  :symbol: "\xE2\x82\xA8"
+  :name: Sri Lanka rupee
+- :id: 81
+  :alpha3: LRD
+  :symbol: $
+  :name: Liberian dollar
+- :id: 82
+  :alpha3: LTL
+  :symbol: L
+  :name: Lithuanian litas
+- :id: 83
+  :alpha3: LVL
+  :symbol: L
+  :name: Latvian lats
+- :id: 84
+  :alpha3: MAD
+  :symbol: 
+  :name: Moroccan dirham
+- :id: 85
+  :alpha3: MDL
+  :symbol: 
+  :name: Moldovan leu
+- :id: 86
+  :alpha3: MGA
+  :symbol: 
+  :name: Malagasy ariary
+- :id: 87
+  :alpha3: MKD
+  :symbol: "\xD0\xB4"
+  :name: Macedonian denar
+- :id: 88
+  :alpha3: MMK
+  :symbol: 
+  :name: Myanmar kyat
+- :id: 89
+  :alpha3: MNT
+  :symbol: "\xE2\x82\xAE"
+  :name: Mongolian tugrik
+- :id: 90
+  :alpha3: MOP
+  :symbol: 
+  :name: Macanese pataca
+- :id: 91
+  :alpha3: MRO
+  :symbol: 
+  :name: Mauritanian ouguiya
+- :id: 92
+  :alpha3: MUR
+  :symbol: "\xE2\x82\xA8"
+  :name: Mauritius rupee
+- :id: 93
+  :alpha3: MVR
+  :symbol: 
+  :name: Maldivian rufiyaa
+- :id: 94
+  :alpha3: MWK
+  :symbol: 
+  :name: Malawian kwacha
+- :id: 95
+  :alpha3: MXN
+  :symbol: $
+  :name: Mexican peso
+- :id: 96
+  :alpha3: MYR
+  :symbol: R
+  :name: Malaysian ringgit
+- :id: 97
+  :alpha3: MZN
+  :symbol: M
+  :name: Mozambican metical
+- :id: 98
+  :alpha3: NAD
+  :symbol: $
+  :name: Namibian dollar
+- :id: 99
+  :alpha3: NGN
+  :symbol: "\xE2\x82\xA6"
+  :name: Nigerian naira
+- :id: 100
+  :alpha3: NIO
+  :symbol: C
+  :name: Cordoba oro
+- :id: 101
+  :alpha3: NOK
+  :symbol: k
+  :name: Norwegian krone
+- :id: 102
+  :alpha3: NPR
+  :symbol: "\xE2\x82\xA8"
+  :name: Nepalese rupee
+- :id: 103
+  :alpha3: NZD
+  :symbol: $
+  :name: New Zealand dollar
+- :id: 104
+  :alpha3: OMR
+  :symbol: "\xEF\xB7\xBC"
+  :name: Omani rial
+- :id: 105
+  :alpha3: PAB
+  :symbol: B
+  :name: Panamanian balboa
+- :id: 106
+  :alpha3: PEN
+  :symbol: S
+  :name: Peruvian nuevo sol
+- :id: 107
+  :alpha3: PGK
+  :symbol: 
+  :name: Papua New Guinean kina
+- :id: 108
+  :alpha3: PHP
+  :symbol: "\xE2\x82\xB1"
+  :name: Philippine peso
+- :id: 109
+  :alpha3: PKR
+  :symbol: "\xE2\x82\xA8"
+  :name: Pakistan rupee
+- :id: 110
+  :alpha3: PLN
+  :symbol: z
+  :name: Polish zloty
+- :id: 111
+  :alpha3: PYG
+  :symbol: G
+  :name: Paraguayan guarani
+- :id: 112
+  :alpha3: QAR
+  :symbol: "\xEF\xB7\xBC"
+  :name: Qatari rial
+- :id: 113
+  :alpha3: RON
+  :symbol: l
+  :name: Romanian leu
+- :id: 114
+  :alpha3: RSD
+  :symbol: "\xD0\x94"
+  :name: Serbian dinar
+- :id: 115
+  :alpha3: RUB
+  :symbol: "\xD1\x80"
+  :name: Russian ruble
+- :id: 116
+  :alpha3: RWF
+  :symbol: 
+  :name: Rwanda franc
+- :id: 117
+  :alpha3: SAR
+  :symbol: "\xEF\xB7\xBC"
+  :name: Saudi Arabian riyal
+- :id: 118
+  :alpha3: SBD
+  :symbol: $
+  :name: Solomon Islands dollar
+- :id: 119
+  :alpha3: SCR
+  :symbol: "\xE2\x82\xA8"
+  :name: Seychelles rupee
+- :id: 120
+  :alpha3: SEK
+  :symbol: k
+  :name: Swedish krona
+- :id: 121
+  :alpha3: SGD
+  :symbol: $
+  :name: Singapore dollar
+- :id: 122
+  :alpha3: SHP
+  :symbol: "\xC2\xA3"
+  :name: Saint Helena pound
+- :id: 123
+  :alpha3: SLL
+  :symbol: 
+  :name: Sierra Leonean leone
+- :id: 124
+  :alpha3: SOS
+  :symbol: S
+  :name: Somali shilling
+- :id: 125
+  :alpha3: SRD
+  :symbol: $
+  :name: Surinamese dollar
+- :id: 126
+  :alpha3: STD
+  :symbol: 
+  :name: Sao Tome and Principe dobra
+- :id: 127
+  :alpha3: SVC
+  :symbol: $
+  :name: 
+- :id: 128
+  :alpha3: SYP
+  :symbol: "\xC2\xA3"
+  :name: Syrian pound
+- :id: 129
+  :alpha3: SZL
+  :symbol: 
+  :name: Swaziland lilangeni
+- :id: 130
+  :alpha3: THB
+  :symbol: "\xE0\xB8\xBF"
+  :name: Thai baht
+- :id: 131
+  :alpha3: TJS
+  :symbol: 
+  :name: Tajikistani somoni
+- :id: 132
+  :alpha3: TND
+  :symbol: 
+  :name: Tunisian dinar
+- :id: 133
+  :alpha3: TOP
+  :symbol: 
+  :name: "Tongan pa\xE2\x80\x99anga"
+- :id: 134
+  :alpha3: TRL
+  :symbol: "\xE2\x82\xA4"
+  :name: 
+- :id: 135
+  :alpha3: TRY
+  :symbol: 
+  :name: Turkish lira
+- :id: 136
+  :alpha3: TTD
+  :symbol: T
+  :name: Trinidad and Tobago dollar
+- :id: 137
+  :alpha3: TVD
+  :symbol: $
+  :name: 
+- :id: 138
+  :alpha3: TWD
+  :symbol: N
+  :name: Taiwan dollar
+- :id: 139
+  :alpha3: TZS
+  :symbol: 
+  :name: Tanzanian shilling
+- :id: 140
+  :alpha3: UAH
+  :symbol: "\xE2\x82\xB4"
+  :name: Ukrainian hryvnia
+- :id: 141
+  :alpha3: UGX
+  :symbol: 
+  :name: Ugandan shilling
+- :id: 142
+  :alpha3: USD
+  :symbol: $
+  :name: United States dollar
+- :id: 143
+  :alpha3: UYU
+  :symbol: $
+  :name: Uruguayan peso
+- :id: 144
+  :alpha3: UZS
+  :symbol: "\xD0\xBB"
+  :name: Uzbekistan som
+- :id: 145
+  :alpha3: VEF
+  :symbol: B
+  :name: Venezuelan bolivar fuerte
+- :id: 146
+  :alpha3: VND
+  :symbol: "\xE2\x82\xAB"
+  :name: Vietnamese dong
+- :id: 147
+  :alpha3: VUV
+  :symbol: 
+  :name: Vanuatu vatu
+- :id: 148
+  :alpha3: WST
+  :symbol: 
+  :name: Samoan tala
+- :id: 149
+  :alpha3: XAF
+  :symbol: 
+  :name: CFA franc BEAC (Central African CFA franc)
+- :id: 150
+  :alpha3: XCD
+  :symbol: $
+  :name: East Caribbean dollar
+- :id: 151
+  :alpha3: XOF
+  :symbol: 
+  :name: CFA Franc BCEAO (West African CFA franc)
+- :id: 152
+  :alpha3: XPF
+  :symbol: 
+  :name: CFP franc
+- :id: 153
+  :alpha3: YER
+  :symbol: "\xEF\xB7\xBC"
+  :name: Yemeni rial
+- :id: 154
+  :alpha3: ZAR
+  :symbol: R
+  :name: South African rand
+- :id: 155
+  :alpha3: ZMW
+  :symbol: 
+  :name: Zambian kwacha
+- :id: 156
+  :alpha3: ZWD
+  :symbol: Z
+  :name: Zimbabwean dollar
